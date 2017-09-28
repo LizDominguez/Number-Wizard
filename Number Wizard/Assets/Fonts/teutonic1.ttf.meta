@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0bf1abf71e72849bea6537e6ca591dd5
+timeCreated: 1506569753
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Teutonic No1
+  fontNames:
+  - Teutonic No1
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
