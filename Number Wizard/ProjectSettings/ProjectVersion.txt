@@ -1,1 +1,2 @@
-m_EditorVersion: 5.6.3f1
+m_EditorVersion: 5.6.3f1 
+/Users/Liz/Desktop/Number-Wizard/Number Wizard/ProjectSettings/ProjectVersion.txt
